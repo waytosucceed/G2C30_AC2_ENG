@@ -1,0 +1,237 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Who was helping the animal friends in the forest?",
+    "options": [
+      "The bird",
+      "The squirrel",
+      "The fox",
+      "The rabbit"
+    ],
+    "correct": 2,
+    "explanation": "The passage says, 'Once upon a time, there was a kind fox who was helping his animal friends in the forest.' This shows that the fox was the one helping the other animals."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Why was the bird crying?",
+    "options": [
+      "Because it was hungry",
+      "Because its nest had fallen from the tree",
+      "Because the fox was busy",
+      "Because it lost its friend"
+    ],
+    "correct": 1,
+    "explanation": "The passage says, 'The fox saw a small bird that was crying because its nest had fallen from the tree.' So, the bird was upset because its nest fell down."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Who helped the fox rebuild the bird’s nest?",
+    "options": [
+      "The squirrel and the rabbit",
+      "The bear and the owl",
+      "The bird alone",
+      "No one helped the fox"
+    ],
+    "correct": 0,
+    "explanation": "The passage says, 'A squirrel and a rabbit were offering to help too.' This means the squirrel and rabbit helped the fox build the nest."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Look at the image and choose the correct word: <br><img src='./doctor.png' width='150px'/>",
+    "options": [
+      "Farmer",
+      "Firefighter",
+      "Doctor"
+    ],
+    "correct": 2,
+    "explanation": "The picture displays a 'Doctor.' A doctor is a person who has been trained in medicine and who treats people who are ill."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Dentist",
+      "Dantist",
+      "Dintist"
+    ],
+    "correct": 0,
+    "explanation": "The correct spelling is 'D-E-N-T-I-S-T.'"
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which word is the helping verb in 'I am singing a song'?",
+    "options": [
+      "I",
+      "am",
+      "singing",
+      "song"
+    ],
+    "correct": 1,
+    "explanation": "'Am' is the helping verb here. It works with 'singing' to show what you are doing right now."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Find the helping verb: 'The cat is sleeping on the bed.'",
+    "options": [
+      "cat",
+      "is",
+      "sleeping",
+      "bed"
+    ],
+    "correct": 1,
+    "explanation": "'Is' is the helping verb. It helps 'sleeping' to tell us what the cat is doing at this moment."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What's the helping verb in 'We are playing soccer'?",
+    "options": [
+      "we",
+      "soccer",
+      "playing",
+      "are"
+    ],
+    "correct": 3,
+    "explanation": "'Are' is the helping verb. It works with 'playing' to show what we are doing now."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Spot the helping verb: 'She was reading a book.'",
+    "options": [
+      "was",
+      "she",
+      "reading",
+      "book"
+    ],
+    "correct": 0,
+    "explanation": "'Was' is the helping verb. It helps 'reading' to tell us what she did in the past."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which is the helping verb in 'They were dancing at the party'?",
+    "options": [
+      "they",
+      "dancing",
+      "were",
+      "party"
+    ],
+    "correct": 2,
+    "explanation": "'Were' is the helping verb. It works with 'dancing' to show what they did in the past."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Find the helping verb: 'He has finished his homework.'",
+    "options": [
+      "he",
+      "has",
+      "finished",
+      "homework"
+    ],
+    "correct": 1,
+    "explanation": "'Has' is the helping verb. It helps 'finished' to show that the homework is now complete."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What's the helping verb in 'We have eaten dinner'?",
+    "options": [
+      "we",
+      "have",
+      "eaten",
+      "dinner"
+    ],
+    "correct": 1,
+    "explanation": "'Have' is the helping verb. It works with 'eaten' to tell us that dinner is finished."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Identify the helping verb: 'The birds are singing.'",
+    "options": [
+      "the",
+      "birds",
+      "are",
+      "singing"
+    ],
+    "correct": 2,
+    "explanation": "'Are' is the helping verb. It helps 'singing' to describe what the birds are doing now."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word is the helping verb in 'I was happy yesterday'?",
+    "options": [
+      "was",
+      "I",
+      "happy",
+      "yesterday"
+    ],
+    "correct": 0,
+    "explanation": "'Was' is the helping verb. It helps to show how you felt in the past time."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Spot the helping verb: 'The flowers have bloomed.'",
+    "options": [
+      "the",
+      "flowers",
+      "have",
+      "bloomed"
+    ],
+    "correct": 2,
+    "explanation": "'Have' is the helping verb. It works with 'bloomed' to show that the action is complete."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which helping verb is correct? 'The cat ___ sleeping.'",
+    "options": [
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "explanation": "We use 'is' with singular nouns (like 'cat'). 'The cat is sleeping' tells us what one cat is doing right now."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "What's the helping verb in 'They are playing in the park'?",
+    "options": [
+      "they",
+      "are",
+      "playing"
+    ],
+    "correct": 1,
+    "explanation": "'Are' is the helping verb. It helps 'playing' to describe what they are doing now."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Spot the action verb: 'The sun was shining brightly.'",
+    "options": [
+      "the",
+      "sun",
+      "was",
+      "shining"
+    ],
+    "correct": 3,
+    "explanation": "'Shining' is the action verb because it shows what action is done by the 'Sun.' 'Was' is the helping verb."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word is the helping verb in 'We have won the game'?",
+    "options": [
+      "we",
+      "have",
+      "won",
+      "game"
+    ],
+    "correct": 1,
+    "explanation": "'Have' is the helping verb. It helps 'won' to show that the action is complete."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Find the helping verb: 'She is dancing beautifully.'",
+    "options": [
+      "she",
+      "is",
+      "dancing",
+      "beautifully"
+    ],
+    "correct": 1,
+    "explanation": "'Is' is the helping verb. It works with 'dancing' to tell us what she is doing now."
+  }
+]
